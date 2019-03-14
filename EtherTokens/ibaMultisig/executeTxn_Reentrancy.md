@@ -246,7 +246,7 @@ https://etherscan.io/address/0x96906c50c41b3252279c3e2cddc4a59493aadace#code
 
 ##### Roobi Limited ERC20
 
-https://etherscan.io/address/0x0bdbc0748ba09fbe9e9ed5938532e41446c2f033#code
+https://etherscan.io/address/0xd25c6cc98cf987dbc788df34502a68ff1ac449c0#code
 
 ```
 function executeTxn(uint txId) onlyOwner() external returns (bool){
